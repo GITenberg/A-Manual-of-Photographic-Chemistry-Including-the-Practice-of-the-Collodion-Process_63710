@@ -1,5 +1,8 @@
 _repo: A-Manual-of-Photographic-Chemistry-Including-the-Practice-of-the-Collodion-Process_63710
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 63710-h/images/cover_epub.jpg
 creator:
   author:
     agent_name: Hardwich, T. Frederick
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52565
     wikipedia: https://en.wikipedia.org/wiki/Thomas_Frederick_Hardwich
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63710#A-Manual-of-Photographic-Chemistry-Including-the-Practice-of-the-Collodion-Process
 gutenberg_issued: '2020-11-12'
 gutenberg_type: Text
 identifiers:
